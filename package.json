@@ -1,0 +1,16 @@
+{
+  "name": "test-node-app",
+  "description": "Test Node.js App",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "4.17.1",
+    "stream-json": "^1.7.2",
+    "json-2-csv": "^3.14.1"
+  },
+  "devDependencies": {
+    "mocha": "9.0.3",
+    "supertest": "6.1.4",
+    "assert": "^2.0.0"
+  }
+}
