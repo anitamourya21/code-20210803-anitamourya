@@ -5,7 +5,7 @@
 ## Install npm packages
 npm install
 
-## Run server
+## Run Server
 node main.js
 
 ## Request JSON can be set under JSON file at path
@@ -17,7 +17,7 @@ node main.js
 ## Check the WebPage
 http://localhost:3000
 
-## run test
+## Run Tests
 ./script/test
 
 # Author
